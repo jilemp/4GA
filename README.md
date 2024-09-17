@@ -1,2 +1,2 @@
-# 4GA02.1---Intro-to-Numpy
+# 4GA
 Introductory exercises wtih Numpy
