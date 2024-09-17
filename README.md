@@ -1,2 +1,2 @@
 # 4GA
-Introductory exercises wtih Numpy
+Exercises from the 4 Geeks Academy Bootcamp in Data Science
